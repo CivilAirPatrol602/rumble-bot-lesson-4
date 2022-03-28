@@ -5,6 +5,7 @@ Documentation for the Rumble-Bot software
 ## Directory Contents
 
 * **robot-sw**: Contains Arduino IDE `.ino` file for the Rumble-Bot
+* **documentation**: Contains `.pdf` documentation files
 * [README.md](README.md): This document
 
 ## Install Arduino
